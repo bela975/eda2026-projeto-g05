@@ -105,7 +105,7 @@ A000003,P0003,C02,Ortopedia,M003,2026-08-02,2026-08-12,10:30,REALIZADO,TELEFONE,
 
 O schema da tabela foi declarado diretamente no Terraform.
 
-Não será utilizado Glue Crawler para inferência do schema.
+Não foi utilizado Glue Crawler para inferência do schema.
 
 ---
 
