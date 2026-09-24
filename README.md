@@ -72,7 +72,7 @@ Taxa no-show = --------------------------- × 100
 
 ## 6. Dados
 
-A tabela utilizada no projeto será chamada:
+A tabela utilizada no projeto se chama:
 
 ```text
 agendamentos
