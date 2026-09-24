@@ -1,10 +1,10 @@
 # eda2026-projeto-g05
 
-# EDA262 — Projeto de Engenharia de Dados
+# EDA — Projeto de Engenharia de Dados
 
 ## Análise de No-Show em Agendamentos de Clínica
 
-Projeto desenvolvido para a disciplina **EDA262 — Engenharia de Dados**.
+Projeto desenvolvido para a disciplina **EDA— Engenharia de Dados**.
 
 A Parte 1 do projeto tem como objetivo provisionar, utilizando **Terraform**, uma infraestrutura de dados na AWS capaz de armazenar dados de agendamentos de uma clínica, catalogá-los e responder a uma pergunta analítica utilizando o **Amazon Athena**.
 
